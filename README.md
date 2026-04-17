@@ -1,16 +1,14 @@
-## Hi there 👋
+### Tony Kim
 
-<!--
-**2h98/2h98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product engineer. CS + Math @ Northeastern.  
+Building full products, not just features.
 
-Here are some ideas to get you started:
+**Shipped**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [GameTape](https://gametape.win) — real-time sports production platform (2k MAU)
+
+- [Rate My Campus Food](https://ratemycampusfood.com) — social dining platform (100+ users)
+
+- Second Brain Agent — agentic RAG over Obsidian (NVIDIA hackathon)
+
+→ [tonykim.dev](https://tonykim.dev) · [LinkedIn](https://linkedin.com/in/tonyk-dev) · tony@tonykim.dev
