@@ -12,4 +12,4 @@ screenshots, and live demos at **[tonykim.dev](https://tonykim.dev)**.
 - Second Brain Agent · agentic RAG over Obsidian · NVIDIA hackathon
 - Bloom · privacy-first cycle tracker · 30+ beta testers
 
-→ [tonykim.dev](https://tonykim.dev) · [LinkedIn](https://linkedin.com/in/tonyk-dev) · tony@tonykim.dev
+→ [tonykim.dev](https://tonykim.dev) · [LinkedIn](https://linkedin.com/in/tonykim-dev) · tony@tonykim.dev
